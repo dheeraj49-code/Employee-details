@@ -12,8 +12,14 @@
   </p>
    <p>
          Last name: <input type = "text" name = "lname" />
-         father name: <input type = "text" name = "fname" />
-         mother name: <input type = "text" name = "mname" />
+  </p>
+
+  <p>
+         Father name: <input type = "text" name = "fname" />
+  </p>
+
+  <p>
+         Mother name: <input type = "text" name = "mname" />
   </p>
  
    <p>
